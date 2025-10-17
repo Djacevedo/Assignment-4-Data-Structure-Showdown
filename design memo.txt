@@ -1,0 +1,9 @@
+My approach to pratice problems was using a linked list. I used this approach
+since it is similar toa waitlist that will allow us to make diffent kinds of 
+edits like inserts and deletions. 
+My approach to timed challenge was using a list with recursion.I chose lists 
+since the indexing was going to be nesseary to this problem. This one works by 
+finding the largest element in each recursive. It then removes it and appends 
+it to a sorted portion of the list that is returned by other recursive calls
+Overall both problems were a challenge that allowed me to emphasize on different 
+styles. 
